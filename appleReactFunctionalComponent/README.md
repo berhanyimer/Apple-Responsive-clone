@@ -1,6 +1,6 @@
 Apple Website Clone - Responsive Design
 ****************************************
-This project is a responsive clone of the Apple website, designed and developed to replicate the original design while being fully responsive across various devices such as desktops, tablets, and mobile phones.
+    This project is a responsive clone of the Apple website, designed and developed to replicate the original design while being fully responsive across various devices such as desktops, tablets, and mobile phones.
 
 Table of Contents
 ****************
